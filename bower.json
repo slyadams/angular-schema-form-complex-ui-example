@@ -1,0 +1,23 @@
+{
+  "name": "angular-schema-form-complex-ui-example",
+  "authors": [
+    "Simon Adams <simonadams@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular-schema-form": ">= 0.7",
+    "modal": "^1.1.9",
+    "bootstrap": "^3.3.6"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
